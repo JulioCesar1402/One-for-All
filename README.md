@@ -1,3 +1,7 @@
+### Terms and Agreements
+
+Project carried out during the Trybe course
+
 # One For All
 
-Nesse projeto é realizado a criação de um banco de dados normalizado fictício do Spotify, onde é priorizado a redução das possíveis redundâncias de dados através de tabelas relacionais
+In this project, the creation of a fictitious normalized Spotify database is carried out, where the reduction of possible data redundancies through relational tables is prioritized.
