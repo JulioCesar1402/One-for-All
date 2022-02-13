@@ -7,6 +7,6 @@ Project developed during the Trybe course
 
 ## Requirements:
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [MySQL Community Server](https://dev.mysql.com/downloads/mysql) installed.
-# One For All
 
+# One For All
 In this project, the creation of a fictitious normalized Spotify database is carried out, where the reduction of possible data redundancies through relational tables is prioritized.
